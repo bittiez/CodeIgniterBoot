@@ -68,7 +68,7 @@
                 <h1>Logo Nav by Start Bootstrap</h1>
                 <p>This template was pulled from http://startbootstrap.com/template-overviews/logo-nav/</p>
 				<p>This page is just a simple template to get a quick start with CodeIgniter.</p>
-				<p>This installation is currently using CodeIgniter <strong>3.0.3</strong> and Bootstrap <strong>3.3.5</strong>. I will try to keep this project up to date with new CodeIgniter and Bootstrap releases.</p>
+				<p>This installation is currently using CodeIgniter <strong>3.0.6</strong> and Bootstrap <strong>3.3.6</strong>. I will try to keep this project up to date with new CodeIgniter and Bootstrap releases.</p>
             </div>
         </div>
     </div>
