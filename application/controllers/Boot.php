@@ -18,7 +18,7 @@ class Boot extends CI_Controller {
 			'title' => 'Basic starter page',
       'ciVersion' => '3.1.11',
       'bsVersion' => '4.3.1',
-      'jQuery' => '3.1.1',
+      'jQuery' => '3.4.1',
 		);
 		$this->parser->parse('Boot', $pageData);
 	}
