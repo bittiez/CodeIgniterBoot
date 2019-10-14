@@ -5,7 +5,7 @@ I have combined *CodeIgniter* **3.1.11** with *Bootstrap* **4.3.1**, *jQuery* **
 To view the basic template go to **/index.php/Boot**. I left the original Welcome controller as default to keep everything CodeIgniter as if you just downloaded, I will only add files to, not change anything from the default CodeIgniter.
 
 # Installation
- 1. Clone or [\[download\]](/archive/master.zip) the contents of this repository.
+ 1. Clone or [\[download\]](https://github.com/bittiez/CodeIgniterBoot/archive/master.zip) the contents of this repository.
  1. Copy the contents to your web directory
  1. Open **yourwebsite.com/index.php/Boot**
  1. Open **yourwebsite.com/user_guide/** to get started with Codeigniter!
