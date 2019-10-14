@@ -16,7 +16,7 @@ class Boot extends CI_Controller {
 		$pageData = array(
 			'baseurl' => base_url(),
 			'title' => 'Basic starter page',
-      'ciVersion' => '3.1.2',
+      'ciVersion' => '3.1.11',
       'bsVersion' => '3.3.7',
       'jQuery' => '3.1.1',
 		);
